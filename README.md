@@ -48,19 +48,92 @@ Developer
 
 ## 🚀 Featured Projects
 
-| Project | What it is | Stack |
-|---|---|---|
-| 🌾 **Kisan Khata** | Smart offline-first farm ledger | React Native · Expo · TypeScript · SQLite · Supabase |
-| | [View project →](https://github.com/amandv123/kisan-khata) | |
-| 🤖 **TelePilot** | Telegram AI agent platform | Python · FastAPI · Telegram · AI |
-| | [View project →](https://github.com/amandv123/telepilot) | |
-| 🌐 **DriveClone** | Modern file transfer/storage experience | React · TypeScript · Tailwind |
-| | [View project →](https://github.com/amandv123/DriveClone) | |
-| 🔗 **AD Shortner** | Ad-supported URL shortener | Cloudflare Workers |
-| | [View project →](https://github.com/amandv123/ad-shortner) | |
-| 🌱 **Sukanti Agricultural Works** | Agricultural service website | React · Vite · TypeScript · Tailwind |
-| | [View project →](https://github.com/amandv123/sukanti-agricultural-works) | |
+<table>
+<tr>
+<td width="50%" valign="top">
 
+### 🌾 Kisan Khata
+
+**Smart Farm Ledger**
+
+Offline-first farm ledger built for practical day-to-day farming records, with local SQLite storage and cloud sync.
+
+**React Native · Expo · TypeScript · SQLite · Supabase**
+
+<a href="https://github.com/amandv123/kisan-khata">View project →</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 TelePilot
+
+**Telegram AI Agent**
+
+AI-powered Telegram agent with intent parsing, context management, planning, policy, tools, search and automation.
+
+**Python · FastAPI · Telegram · AI**
+
+<a href="https://github.com/amandv123/telepilot">View project →</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🌐 DriveClone
+
+**Move files. Not storage.**
+
+A modern file transfer and storage experience inspired by cloud-drive workflows.
+
+**React · TypeScript · Tailwind**
+
+<a href="https://github.com/amandv123/DriveClone">View project →</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🔗 AD Shortner
+
+**Ad-supported URL Shortener**
+
+A lightweight short-link platform with aliases, password protection, timed ad flow and an admin dashboard.
+
+**Cloudflare Workers · Wrangler**
+
+<a href="https://github.com/amandv123/ad-shortner">View project →</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🌱 Sukanti Agricultural Works
+
+**Agricultural Service Website**
+
+A responsive business website showcasing agricultural services and machinery for farmers in Odisha.
+
+**React · Vite · TypeScript · Tailwind**
+
+<a href="https://github.com/amandv123/sukanti-agricultural-works">View project →</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🧪 More Experiments
+
+**Always building something new**
+
+From automation bots to AI agents and utility tools, I like turning small ideas into working prototypes.
+
+<a href="https://github.com/amandv123?tab=repositories">Explore all repositories →</a>
+
+</td>
+</tr>
+</table>
 ---
 
 ## ⚡ Tech Stack
