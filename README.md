@@ -15,7 +15,15 @@
 
 </div>
 
-<div align="center">\n\n<img src="./assets/typing.svg" width="900" alt="Animated terminal line">\n\n</div>\n\n---\n\n## 🧑‍💻 About Me
+<div align="center">
+
+<img src="./assets/typing.svg" width="900" alt="Animated terminal line">
+
+</div>
+
+---
+
+## 🧑‍💻 About Me
 
 I'm **Amandev Tudu**, a developer from Odisha who enjoys turning ideas into useful products.
 
@@ -39,10 +47,15 @@ Developer
 | Project | What it is | Stack |
 |---|---|---|
 | 🌾 **Kisan Khata** | Smart offline-first farm ledger | React Native · Expo · TypeScript · SQLite · Supabase |
+| | [View project →](https://github.com/amandv123/kisan-khata) | |
 | 🤖 **TelePilot** | Telegram AI agent platform | Python · FastAPI · Telegram · AI |
+| | [View project →](https://github.com/amandv123/telepilot) | |
 | 🌐 **DriveClone** | Modern file transfer/storage experience | React · TypeScript · Tailwind |
+| | [View project →](https://github.com/amandv123/DriveClone) | |
 | 🔗 **AD Shortner** | Ad-supported URL shortener | Cloudflare Workers |
+| | [View project →](https://github.com/amandv123/ad-shortner) | |
 | 🌱 **Sukanti Agricultural Works** | Agricultural service website | React · Vite · TypeScript · Tailwind |
+| | [View project →](https://github.com/amandv123/sukanti-agricultural-works) | |
 
 ---
 
