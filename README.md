@@ -338,10 +338,42 @@ From automation bots to AI agents and utility tools, I like turning small ideas 
 
 ## 🎯 What I Like Building
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 AI & Automation
+
+Build agents, bots, intelligent workflows and tools that automate repetitive work.
+
+</td>
+<td width="50%" valign="top">
+
+### 📱 Mobile Products
+
+Create practical mobile apps with offline-first architecture and thoughtful UX.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🌐 Web & Developer Tools
+
+Build modern web experiences, dashboards, utilities and tools that solve specific problems.
+
+</td>
+<td width="50%" valign="top">
+
+### ☁️ Cloud & Systems
+
+Connect applications with authentication, databases, APIs, synchronization and reliable backend services.
+
+</td>
+</tr>
+</table>
+
 > **Ideas → Design → Code → Test → Ship → Improve**
-
-I enjoy projects where software solves a real problem — especially tools that combine **AI, automation, mobile apps, and cloud services**.
-
 ---
 
 <div align="center">
