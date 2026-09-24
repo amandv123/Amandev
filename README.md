@@ -181,12 +181,50 @@ Git · GitHub · Docker · Wrangler
 
 ## 🧠 Currently Building
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
 ### 🤖 TelePilot
-An AI-powered Telegram agent with intent parsing, context management, planning, policy, tools, search, and automation.
+
+**AI-powered Telegram agent**
+
+> Building an intelligent Telegram assistant with intent parsing, context management, planning, policy, tools, search and automation.
+
+**Focus**
+- 🧠 Agent architecture
+- 🔎 Search & URL processing
+- 🛡️ Security & policy
+- ⚙️ Tools & automation
+
+**Status:** ACTIVE DEVELOPMENT
+
+<a href="https://github.com/amandv123/telepilot">View TelePilot →</a>
+
+</td>
+<td width="50%" valign="top">
 
 ### 🌾 Kisan Khata
-A farmer-focused digital ledger designed around offline-first usage, local data safety, authentication, and cloud synchronization.
 
+**Smart Farm Ledger**
+
+> Building an offline-first farming ledger with local data safety, Supabase authentication and cloud synchronization.
+
+**Focus**
+- 📱 Mobile UX
+- 💾 Offline-first SQLite
+- ☁️ Cloud sync
+- 🔐 Account linking
+
+**Status:** ACTIVE DEVELOPMENT
+
+<a href="https://github.com/amandv123/kisan-khata">View Kisan Khata →</a>
+
+</td>
+</tr>
+</table>
+
+> 💡 **Build → Test → Fix → Ship → Improve**
 ---
 
 ## 🌐 Profile
