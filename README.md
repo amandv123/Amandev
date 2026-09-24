@@ -66,6 +66,29 @@ Git · GitHub · Docker · Wrangler
 
 ---
 
+## 🛠️ Tools I Work With
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=ts,js,python,react,nextjs,reactnative,expo,tailwind,vite,nodejs,fastapi,supabase,sqlite,postgres,cloudflare,docker,git,github,vscode&perline=9" alt="Technology stack">
+
+</div>
+
+---
+
+## 🔗 Connect
+
+<div align="center">
+
+<a href="https://github.com/amandv123">GitHub</a> ·
+<a href="https://github.com/amandv123?tab=repositories">Repositories</a> ·
+<a href="https://github.com/amandv123/kisan-khata">Kisan Khata</a> ·
+<a href="https://github.com/amandv123/telepilot">TelePilot</a>
+
+</div>
+
+---
+
 ## 🧠 Currently Building
 
 ### 🤖 TelePilot
