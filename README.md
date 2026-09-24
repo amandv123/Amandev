@@ -378,6 +378,10 @@ Connect applications with authentication, databases, APIs, synchronization and r
 
 <div align="center">
 
+<img src="./assets/typing.svg" width="700" alt="Build ship learn repeat">
+
+<br><br>
+
 ---
 
 ### 👋 Thanks for stopping by
