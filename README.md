@@ -15,9 +15,7 @@
 
 </div>
 
----
-
-## 🧑‍💻 About Me
+<div align="center">\n\n<img src="./assets/typing.svg" width="900" alt="Animated terminal line">\n\n</div>\n\n---\n\n## 🧑‍💻 About Me
 
 I'm **Amandev Tudu**, a developer from Odisha who enjoys turning ideas into useful products.
 
