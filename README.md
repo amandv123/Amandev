@@ -76,6 +76,25 @@ A farmer-focused digital ledger designed around offline-first usage, local data 
 
 ---
 
+## 🌐 Profile
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=amandv123&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS" alt="Profile views">
+
+<br><br>
+
+<a href="https://github.com/amandv123/kisan-khata">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=amandv123&repo=kisan-khata&theme=transparent&hide_border=true" alt="Kisan Khata">
+</a>
+<a href="https://github.com/amandv123/telepilot">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=amandv123&repo=telepilot&theme=transparent&hide_border=true" alt="TelePilot">
+</a>
+
+</div>
+
+---
+
 ## 📊 GitHub Activity
 
 <div align="center">
