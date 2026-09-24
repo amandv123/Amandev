@@ -7,6 +7,10 @@
 ### Developer • Builder • AI & Automation Enthusiast
 
 <p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+useful+software;Mobile+%7C+Web+%7C+AI+%7C+Automation;Turning+ideas+into+shipped+products;Build+%E2%80%A2+Ship+%E2%80%A2+Repeat" alt="Typing animation">
+</p>
+
+<p>
   <a href="https://github.com/amandv123"><img src="https://img.shields.io/badge/GitHub-amandv123-181717?style=for-the-badge&logo=github" alt="GitHub"></a>
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
