@@ -229,13 +229,24 @@ From automation bots to AI agents and utility tools, I like turning small ideas 
 
 <div align="center">
 
-<a href="https://github.com/amandv123">GitHub</a> ·
-<a href="https://github.com/amandv123?tab=repositories">Repositories</a> ·
-<a href="https://github.com/amandv123/kisan-khata">Kisan Khata</a> ·
-<a href="https://github.com/amandv123/telepilot">TelePilot</a>
+<a href="https://github.com/amandv123">
+  <img src="https://img.shields.io/badge/GitHub-amandv123-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
+<a href="https://github.com/amandv123?tab=repositories">
+  <img src="https://img.shields.io/badge/Repositories-Explore-58A6FF?style=for-the-badge&logo=github&logoColor=white" alt="Repositories">
+</a>
+
+<br><br>
+
+**Open to building • learning • collaborating**
+
+<br>
+
+<a href="https://github.com/amandv123?tab=repositories">🚀 Explore Projects</a>
+&nbsp; • &nbsp;
+<a href="https://github.com/amandv123/Amandev">⭐ Amandev</a>
 
 </div>
-
 ---
 
 ## 🧠 Currently Building
