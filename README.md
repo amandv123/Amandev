@@ -138,22 +138,56 @@ From automation bots to AI agents and utility tools, I like turning small ideas 
 
 ## ⚡ Tech Stack
 
-**Languages**
+<table>
+<tr>
+<td width="50%" valign="top">
 
-TypeScript · JavaScript · Python · SQL
+### 💻 Languages
 
-**Frontend / Mobile**
+<div align="center">
 
-React · React Native · Expo · Vite · Tailwind CSS
+<img src="https://skillicons.dev/icons?i=ts,js,python,sql&perline=4" alt="Languages">
 
-**Backend / Cloud**
+</div>
 
-Supabase · Cloudflare Workers · FastAPI · SQLite · PostgreSQL
+</td>
+<td width="50%" valign="top">
 
-**Tools**
+### 🎨 Frontend & Mobile
 
-Git · GitHub · Docker · Wrangler
+<div align="center">
 
+<img src="https://skillicons.dev/icons?i=react,nextjs,reactnative,expo,vite,tailwind&perline=6" alt="Frontend and mobile">
+
+</div>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ☁️ Backend & Cloud
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=nodejs,fastapi,supabase,sqlite,postgres,cloudflare&perline=6" alt="Backend and cloud">
+
+</div>
+
+</td>
+<td width="50%" valign="top">
+
+### 🛠️ Tools & Workflow
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode&perline=4" alt="Tools and workflow">
+
+</div>
+
+</td>
+</tr>
+</table>
 ---
 
 ## 🛠️ Tools I Work With
