@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="./assets/terminal.svg" width="900" alt="Amandev terminal">
+
 # 👋 Hey, I'm Amandev
 
 ### Developer • Builder • AI & Automation Enthusiast
@@ -21,7 +23,7 @@ I'm **Amandev Tudu**, a developer from Odisha who enjoys turning ideas into usef
 
 I build mobile apps, web applications, automation tools, and AI-powered systems — with a focus on practical UX, reliable architecture, and learning by building.
 
-~~~text
+```text
 Amandev@github:~$ whoami
 
 Developer
@@ -30,7 +32,7 @@ Developer
 ├── 🤖 AI & Automation
 ├── ☁️ Cloud & Backend
 └── 🛠️ Open-source experiments
-~~~
+```
 
 ---
 
