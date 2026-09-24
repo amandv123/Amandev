@@ -211,13 +211,6 @@ From automation bots to AI agents and utility tools, I like turning small ideas 
 </table>
 ---
 
-## 🛠️ Tools I Work With
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=ts,js,python,react,nextjs,reactnative,expo,tailwind,vite,nodejs,fastapi,supabase,sqlite,postgres,cloudflare,docker,git,github,vscode&perline=9" alt="Technology stack">
-
-</div>
 
 ---
 
