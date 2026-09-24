@@ -135,8 +135,16 @@ A farmer-focused digital ledger designed around offline-first usage, local data 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=amandv123&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="165" alt="GitHub stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandv123&layout=compact&hide_border=true&theme=transparent" height="165" alt="Top languages">
+<a href="https://github.com/amandv123">
+  <img src="https://github-readme-stats.vercel.app/api?username=amandv123&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="165" alt="GitHub stats">
+</a>
+<a href="https://github.com/amandv123">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandv123&layout=compact&hide_border=true&theme=transparent&langs_count=8" height="165" alt="Top languages">
+</a>
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=amandv123&theme=transparent&hide_border=true" height="165" alt="GitHub streak">
 
 </div>
 
