@@ -29,21 +29,46 @@
 
 ## 🧑‍💻 About Me
 
-I'm **Amandev Tudu**, a developer from Odisha who enjoys turning ideas into useful products.
+I'm **Amandev Tudu**, a developer from Odisha who enjoys turning ideas into useful, real-world software.
 
-I build mobile apps, web applications, automation tools, and AI-powered systems — with a focus on practical UX, reliable architecture, and learning by building.
+I work across **mobile apps, web applications, AI agents, automation and cloud-backed systems**. My approach is simple: understand the problem, build a practical solution, test it, and keep improving it.
+
+<table>
+<tr>
+<td width="55%" valign="top">
+
+### 👨‍💻 What I Do
+
+- 📱 Build mobile apps with React Native & Expo
+- 🌐 Create modern web experiences
+- 🤖 Experiment with AI agents & automation
+- ☁️ Build cloud-backed applications
+- 🧩 Design practical developer tools
+- 🚀 Turn ideas into working products
+
+</td>
+<td width="45%" valign="top">
+
+### 💻 Terminal
 
 ```text
 Amandev@github:~$ whoami
 
+Amandev Tudu
+
 Developer
-├── 📱 Mobile Apps
-├── 🌐 Web Applications
-├── 🤖 AI & Automation
-├── ☁️ Cloud & Backend
-└── 🛠️ Open-source experiments
+├── 📱 Mobile
+├── 🌐 Web
+├── 🤖 AI
+├── ⚙️ Automation
+└── ☁️ Cloud
+
+Amandev@github:~$ _
 ```
 
+</td>
+</tr>
+</table>
 ---
 
 ## 🚀 Featured Projects
