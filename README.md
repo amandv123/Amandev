@@ -176,10 +176,20 @@ I enjoy projects where software solves a real problem — especially tools that 
 
 <div align="center">
 
-### Thanks for visiting 👋
+---
 
-**Let's build something useful.**
+### 👋 Thanks for stopping by
 
-<a href="https://github.com/amandv123?tab=repositories">Explore my repositories →</a>
+**Build • Ship • Learn • Repeat**
+
+If you found something useful here, feel free to ⭐ a repository or explore the projects below.
+
+<a href="https://github.com/amandv123?tab=repositories">
+  <img src="https://img.shields.io/badge/Explore%20Repositories-58A6FF?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories">
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=amandv123&style=flat-square&color=58A6FF&label=Profile+Views" alt="Profile views">
 
 </div>
