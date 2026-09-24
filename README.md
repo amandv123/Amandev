@@ -87,6 +87,18 @@ A farmer-focused digital ledger designed around offline-first usage, local data 
 
 ---
 
+## 🐍 Contribution Activity
+
+<div align="center">
+
+<a href="https://github.com/amandv123">
+  <img src="https://raw.githubusercontent.com/amandv123/Amandev/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake">
+</a>
+
+</div>
+
+---
+
 ## 🎯 What I Like Building
 
 > **Ideas → Design → Code → Test → Ship → Improve**
