@@ -69,6 +69,7 @@ Amandev@github:~$ _
 </td>
 </tr>
 </table>
+
 ---
 
 ## 🚀 Featured Projects
@@ -159,6 +160,7 @@ From automation bots to AI agents and utility tools, I like turning small ideas 
 </td>
 </tr>
 </table>
+
 ---
 
 ## ⚡ Tech Stack
@@ -213,33 +215,7 @@ From automation bots to AI agents and utility tools, I like turning small ideas 
 </td>
 </tr>
 </table>
----
 
-
----
-
-## 🔗 Connect
-
-<div align="center">
-
-<a href="https://github.com/amandv123">
-  <img src="https://img.shields.io/badge/GitHub-amandv123-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-</a>
-<a href="https://github.com/amandv123?tab=repositories">
-  <img src="https://img.shields.io/badge/Repositories-Explore-58A6FF?style=for-the-badge&logo=github&logoColor=white" alt="Repositories">
-</a>
-
-<br><br>
-
-**Open to building • learning • collaborating**
-
-<br>
-
-<a href="https://github.com/amandv123?tab=repositories">🚀 Explore Projects</a>
-&nbsp; • &nbsp;
-<a href="https://github.com/amandv123/Amandev">⭐ Amandev</a>
-
-</div>
 ---
 
 ## 🧠 Currently Building
@@ -288,9 +264,10 @@ From automation bots to AI agents and utility tools, I like turning small ideas 
 </table>
 
 > 💡 **Build → Test → Fix → Ship → Improve**
+
 ---
 
-## 🌐 Profile
+## 📊 Developer Dashboard
 
 <div align="center">
 
@@ -303,31 +280,19 @@ From automation bots to AI agents and utility tools, I like turning small ideas 
 <a href="https://github.com/amandv123?tab=repositories">
   <img src="https://img.shields.io/badge/Repositories-Explore-58A6FF?style=for-the-badge&logo=github" alt="Explore repositories">
 </a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=amandv123&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS" alt="Profile views">
-
-</div>
-
----
-
-## 📊 GitHub Activity
-
-<div align="center">
-
-<a href="https://github.com/amandv123">
+<a href="https://github.com/amandv123/Amandev">
   <img src="https://img.shields.io/github/last-commit/amandv123/Amandev?style=for-the-badge&logo=github&label=LAST%20COMMIT" alt="Last commit">
 </a>
 <a href="https://github.com/amandv123/Amandev/actions">
   <img src="https://img.shields.io/github/actions/workflow/status/amandv123/Amandev/deploy-pages.yml?style=for-the-badge&logo=githubactions&label=PORTFOLIO%20BUILD" alt="Portfolio build status">
 </a>
-<a href="https://github.com/amandv123?tab=achievements">
-  <img src="https://img.shields.io/badge/GitHub-Open%20Source-58A6FF?style=for-the-badge&logo=github" alt="GitHub open source">
-</a>
 <a href="https://github.com/amandv123/Amandev/blob/main/LICENSE">
   <img src="https://img.shields.io/github/license/amandv123/Amandev?style=for-the-badge&label=LICENSE" alt="MIT license">
 </a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=amandv123&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS" alt="Profile views">
 
 </div>
 
@@ -383,6 +348,7 @@ Connect applications with authentication, databases, APIs, synchronization and r
 </table>
 
 > **Ideas → Design → Code → Test → Ship → Improve**
+
 ---
 
 <div align="center">
@@ -402,9 +368,5 @@ If you found something useful here, feel free to ⭐ a repository or explore the
 <a href="https://github.com/amandv123?tab=repositories">
   <img src="https://img.shields.io/badge/Explore%20Repositories-58A6FF?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories">
 </a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=amandv123&style=flat-square&color=58A6FF&label=Profile+Views" alt="Profile views">
 
 </div>
