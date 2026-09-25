@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://amandv123.github.io/Amandev/sitemap.xml
