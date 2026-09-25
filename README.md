@@ -19,6 +19,10 @@
 
 <img src="./assets/typing.svg" width="900" alt="Animated terminal line">
 
+<br><br>
+
+<img src="./assets/banner.svg" width="100%" alt="Amandev developer showcase banner">
+
 </div>
 
 ---
