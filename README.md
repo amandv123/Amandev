@@ -298,7 +298,7 @@ From automation bots to AI agents and utility tools, I like turning small ideas 
   <img src="https://img.shields.io/github/followers/amandv123?style=for-the-badge&logo=github&label=FOLLOWERS" alt="GitHub followers">
 </a>
 <a href="https://github.com/amandv123?tab=repositories">
-  <img src="https://img.shields.io/github/stars/amandv123?affiliations=OWNER&style=for-the-badge&logo=github&label=STARS" alt="GitHub stars">
+  <img src="https://img.shields.io/github/user/stars/amandv123?affiliations=OWNER&style=for-the-badge&logo=github&label=STARS" alt="GitHub stars">
 </a>
 <a href="https://github.com/amandv123?tab=repositories">
   <img src="https://img.shields.io/badge/Repositories-Explore-58A6FF?style=for-the-badge&logo=github" alt="Explore repositories">
