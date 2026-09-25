@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="420" viewBox="0 0 1280 420">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#07111f"/>
+    <stop offset="1" stop-color="#0d1b2a"/>
+  </linearGradient>
+  <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#00d4ff"/>
+    <stop offset="1" stop-color="#39ff88"/>
+  </linearGradient>
+</defs>
+<rect width="1280" height="420" rx="28" fill="url(#bg)"/>
+<circle cx="1120" cy="80" r="170" fill="#16304a" opacity=".35"/>
+<circle cx="1180" cy="330" r="220" fill="#0b3b32" opacity=".25"/>
+<g font-family="Arial,Helvetica,sans-serif" fill="#fff">
+  <text x="70" y="105" font-size="64" font-weight="700">Amandev</text>
+  <rect x="70" y="124" width="420" height="5" rx="3" fill="url(#accent)"/>
+  <text x="70" y="170" font-size="22" letter-spacing="3" fill="#b8c7d9">DEVELOPER • BUILDER • AI &amp; AUTOMATION</text>
+  <text x="70" y="212" font-size="20" fill="#d7e1ec">Building useful products with code, AI and automation.</text>
+  <g font-size="17">
+    <rect x="70" y="250" width="205" height="62" rx="14" fill="#0f2235" stroke="#1e4763"/>
+    <text x="92" y="276" fill="#39ff88">🌾</text><text x="122" y="278">Kisan Khata</text><text x="92" y="299" fill="#8fa5bb">Smart Farm Ledger</text>
+    <rect x="292" y="250" width="205" height="62" rx="14" fill="#0f2235" stroke="#1e4763"/>
+    <text x="314" y="276">🤖</text><text x="344" y="278">TelePilot</text><text x="314" y="299" fill="#8fa5bb">Telegram AI Agent</text>
+    <rect x="514" y="250" width="205" height="62" rx="14" fill="#0f2235" stroke="#1e4763"/>
+    <text x="536" y="276">🌐</text><text x="566" y="278">DriveClone</text><text x="536" y="299" fill="#8fa5bb">Move files. Not storage.</text>
+  </g>
+  <text x="70" y="365" font-size="24" font-family="monospace" fill="#fff">Ideas → Design → Code → Test → Ship → Improve</text>
+  <text x="840" y="145" font-size="19" fill="#39ff88" font-family="monospace">$ whoami</text>
+  <text x="840" y="180" font-size="25" font-family="monospace">Amandev Tudu</text>
+  <text x="840" y="215" font-size="18" fill="#9fb3c8" font-family="monospace">React • TypeScript • Python</text>
+  <text x="840" y="245" font-size="18" fill="#9fb3c8" font-family="monospace">Supabase • Cloudflare • GitHub</text>
+  <text x="840" y="275" font-size="18" fill="#9fb3c8" font-family="monospace">Mobile • Web • AI • Automation</text>
+  <rect x="840" y="315" width="300" height="2" fill="url(#accent)"/>
+  <text x="840" y="350" font-size="17" fill="#7f95aa" font-family="monospace">build • ship • learn • repeat</text>
+</g>
+</svg>
