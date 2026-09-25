@@ -294,16 +294,19 @@ From automation bots to AI agents and utility tools, I like turning small ideas 
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=amandv123&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS" alt="Profile views">
+<a href="https://github.com/amandv123">
+  <img src="https://img.shields.io/github/followers/amandv123?style=for-the-badge&logo=github&label=FOLLOWERS" alt="GitHub followers">
+</a>
+<a href="https://github.com/amandv123?tab=repositories">
+  <img src="https://img.shields.io/github/stars/amandv123?affiliations=OWNER&style=for-the-badge&logo=github&label=STARS" alt="GitHub stars">
+</a>
+<a href="https://github.com/amandv123?tab=repositories">
+  <img src="https://img.shields.io/badge/Repositories-Explore-58A6FF?style=for-the-badge&logo=github" alt="Explore repositories">
+</a>
 
 <br><br>
 
-<a href="https://github.com/amandv123/kisan-khata">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=amandv123&repo=kisan-khata&theme=transparent&hide_border=true" alt="Kisan Khata">
-</a>
-<a href="https://github.com/amandv123/telepilot">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=amandv123&repo=telepilot&theme=transparent&hide_border=true" alt="TelePilot">
-</a>
+<img src="https://komarev.com/ghpvc/?username=amandv123&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS" alt="Profile views">
 
 </div>
 
@@ -314,15 +317,20 @@ From automation bots to AI agents and utility tools, I like turning small ideas 
 <div align="center">
 
 <a href="https://github.com/amandv123">
-  <img src="https://github-readme-stats.vercel.app/api?username=amandv123&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" width="49%" alt="GitHub stats">
-</a>
-<a href="https://github.com/amandv123">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandv123&layout=compact&hide_border=true&theme=transparent&langs_count=8" width="49%" alt="Top languages">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amandv123&theme=transparent&hide_border=true" width="70%" alt="GitHub contribution streak">
 </a>
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=amandv123&theme=transparent&hide_border=true" width="70%" alt="GitHub streak">
+<a href="https://github.com/amandv123">
+  <img src="https://img.shields.io/github/last-commit/amandv123/Amandev?style=for-the-badge&logo=github&label=LAST%20COMMIT" alt="Last commit">
+</a>
+<a href="https://github.com/amandv123/Amandev/actions">
+  <img src="https://img.shields.io/github/actions/workflow/status/amandv123/Amandev/deploy-pages.yml?style=for-the-badge&logo=githubactions&label=PORTFOLIO%20BUILD" alt="Portfolio build status">
+</a>
+<a href="https://github.com/amandv123/Amandev/blob/main/LICENSE">
+  <img src="https://img.shields.io/github/license/amandv123/Amandev?style=for-the-badge&label=LICENSE" alt="MIT license">
+</a>
 
 </div>
 
